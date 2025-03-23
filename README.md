@@ -4,7 +4,9 @@
 ## I’m currently learning:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" weidth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" weidth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" weidth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" weidth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" weidth="40" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirleyc11&show_icons=true&theme=tokyonight)
-          
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirleyc11&layout=compact)
+
       
         
           
